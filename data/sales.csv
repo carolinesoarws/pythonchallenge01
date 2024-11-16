@@ -1,0 +1,101 @@
+date,product,category,price,quantity
+2023-02-18 00:00:00,Novel,Books,464.31,50
+2023-03-29 00:00:00,Magazine,Books,350.37,22
+2023-02-20 00:00:00,Smartwatch,Electronics,495.73,40
+Invalid Date,Jacket,Clothing,476.51,50
+2023-12-04 00:00:00,Laptop,Electronics,294.18,47
+2023-12-21 00:00:00,Vacuum Cleaner,Home & Kitchen,100.74,28
+2023-12-07 00:00:00,Novel,Books,101.73,34
+2023-09-11 00:00:00,Puzzle,Toys,158.13,8
+2023-09-18 00:00:00,Action Figure,Toys,255.83,12
+2023-03-07 00:00:00,Science Book,Books,69.45,20
+2023-09-12 00:00:00,Puzzle,Toys,-318.37,8
+2023-08-03 00:00:00,Novel,Books,285.91,13
+2023-04-04 00:00:00,Puzzle,Toys,103.62,44
+2023-05-15 00:00:00,Doll,Toys,199.07,29
+2023-03-27 00:00:00,Novel,Books,183.03,19
+2023-06-15 00:00:00,Comic,Books,297.73,36
+2023-03-11 00:00:00,Doll,Toys,430.32,14
+Invalid Date,Vacuum Cleaner,Home & Kitchen,84.5,28
+2023-08-26 00:00:00,T-Shirt,Clothing,335.84,32
+2023-11-05 00:00:00,Jeans,Clothing,431.52,41
+2023-05-22 00:00:00,Doll,Toys,175.26,1
+2023-02-26 00:00:00,Headphones,Electronics,462.99,43
+2023-07-18 00:00:00,Magazine,Books,236.01,22
+2023-12-30 00:00:00,Board Game,Toys,331.54,11
+2023-11-17 00:00:00,Jacket,Clothing,255.22,11
+2023-03-01 00:00:00,Doll,Toys,490.94,41
+2023-10-25 00:00:00,Microwave,Home & Kitchen,302.31,-2
+2023-03-30 00:00:00,Jeans,Clothing,103.91,5
+2023-12-23 00:00:00,Laptop,Electronics,402.85,38
+2023-05-07 00:00:00,Magazine,Books,163.31,1
+2023-02-24 00:00:00,Smartwatch,Electronics,137.49,11
+Invalid Date,Puzzle,Toys,404.83,1
+2023-06-06 00:00:00,Microwave,Home & Kitchen,373.54,4
+2023-06-12 00:00:00,Laptop,Electronics,207.26,20
+2023-08-29 00:00:00,Coffee Maker,Home & Kitchen,220.76,2
+2023-12-23 00:00:00,Smartwatch,Electronics,12.53,2
+2023-11-14 00:00:00,Vacuum Cleaner,Home & Kitchen,-396.35,18
+2023-11-20 00:00:00,Novel,Books,474.79,6
+2023-06-21 00:00:00,Microwave,Home & Kitchen,106.6,44
+2023-10-25 00:00:00,Sneakers,Clothing,316.12,-38
+2023-05-31 00:00:00,Vacuum Cleaner,Home & Kitchen,211.07,50
+2023-09-01 00:00:00,Sneakers,Clothing,210.9,34
+2023-05-29 00:00:00,Puzzle,Toys,-209.22,23
+2023-01-09 00:00:00,Puzzle,Toys,189.08,15
+2023-01-25 00:00:00,Doll,Toys,-173.18,35
+2023-08-18 00:00:00,Jacket,Clothing,60.64,29
+2023-10-14 00:00:00,Action Figure,Toys,220.86,12
+2023-09-23 00:00:00,Sneakers,Clothing,-420.82,8
+2023-08-27 00:00:00,Headphones,Electronics,196.46,-29
+Invalid Date,Smartphone,Electronics,13.49,8
+2023-05-13 00:00:00,Puzzle,Toys,43.76,21
+2023-03-12 00:00:00,Coffee Maker,Home & Kitchen,304.84,35
+2023-12-13 00:00:00,Smartwatch,Electronics,55.27,13
+2023-10-09 00:00:00,Novel,Books,131.8,49
+2023-08-06 00:00:00,Coffee Maker,Home & Kitchen,409.1,1
+2023-07-20 00:00:00,T-Shirt,Clothing,303.89,33
+2023-10-28 00:00:00,T-Shirt,Clothing,247.55,17
+2023-10-25 00:00:00,Jeans,Clothing,-343.29,27
+2023-09-10 00:00:00,Action Figure,Toys,16.51,7
+2023-06-17 00:00:00,T-Shirt,Clothing,76.89,34
+2023-05-11 00:00:00,Smartphone,Electronics,200.06,24
+2023-04-28 00:00:00,Jacket,Clothing,341.47,50
+2023-03-10 00:00:00,Microwave,Home & Kitchen,23.0,16
+2023-11-27 00:00:00,Microwave,Home & Kitchen,271.99,34
+2023-12-29 00:00:00,Blender,Home & Kitchen,168.84,20
+2023-02-21 00:00:00,Coffee Maker,Home & Kitchen,317.77,49
+2023-02-02 00:00:00,T-Shirt,Clothing,375.28,44
+2023-07-05 00:00:00,Comic,Books,479.68,42
+2023-07-30 00:00:00,Jacket,Clothing,139.94,5
+2023-06-13 00:00:00,Comic,Books,143.28,2
+2023-02-18 00:00:00,Laptop,Electronics,206.99,13
+2023-09-25 00:00:00,Blender,Home & Kitchen,191.59,34
+2023-03-11 00:00:00,Action Figure,Toys,429.31,23
+2023-09-16 00:00:00,Jeans,Clothing,117.95,11
+2023-07-17 00:00:00,Smartphone,Electronics,397.58,31
+2023-12-28 00:00:00,Microwave,Home & Kitchen,69.09,43
+2023-11-18 00:00:00,Novel,Books,217.75,23
+2023-09-11 00:00:00,T-Shirt,Clothing,247.57,36
+2023-12-26 00:00:00,Novel,Books,365.4,30
+2023-10-16 00:00:00,Board Game,Toys,456.9,15
+2023-05-28 00:00:00,Board Game,Toys,277.86,23
+2023-08-24 00:00:00,Blender,Home & Kitchen,-444.94,33
+2023-11-07 00:00:00,Coffee Maker,Home & Kitchen,486.08,49
+2023-08-26 00:00:00,Coffee Maker,Home & Kitchen,477.91,-12
+Invalid Date,Coffee Maker,Home & Kitchen,405.75,-33
+2023-05-31 00:00:00,Puzzle,Toys,85.26,7
+2023-04-24 00:00:00,Action Figure,Toys,332.21,32
+2023-12-24 00:00:00,Smartwatch,Electronics,132.58,16
+2023-02-20 00:00:00,Comic,Books,449.94,37
+2023-10-09 00:00:00,Smartphone,Electronics,397.06,39
+2023-12-03 00:00:00,Vacuum Cleaner,Home & Kitchen,248.38,9
+2023-03-06 00:00:00,Headphones,Electronics,210.12,38
+2023-09-22 00:00:00,Laptop,Electronics,116.96,42
+2023-06-05 00:00:00,Microwave,Home & Kitchen,123.64,-43
+2023-02-20 00:00:00,Laptop,Electronics,-114.53,47
+2023-02-08 00:00:00,Sneakers,Clothing,118.26,16
+2023-01-28 00:00:00,Comic,Books,79.57,29
+2023-10-03 00:00:00,Headphones,Electronics,223.0,35
+Invalid Date,Puzzle,Toys,150.8,44
+2023-08-02 00:00:00,Vacuum Cleaner,Home & Kitchen,165.23,41
