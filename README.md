@@ -17,7 +17,6 @@ Usando **Pandas**, responda às seguintes perguntas:
 1. **Qual foi o produto mais vendido em termos de quantidade?**  
 2. **Qual foi a categoria com maior receita total (`price * quantity`)?**  
 3. **Como calcular a média diária de vendas de cada categoria, agrupando os dados por `category` e `date`?**  
-4. **Quais produtos foram vendidos mais de 50 vezes em um único dia?**
 
 ---
 

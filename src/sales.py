@@ -10,7 +10,6 @@ def sales():
         most_selled_product(df_sales_clean)
         most_selled_category(df_sales_clean)
         daily_average_selled_category(df_sales_clean)
-        product_selled_equal_or_more_50(df_sales_clean)
         print("")
 
     except Exception as e:
@@ -22,7 +21,7 @@ def clean_data_sales(df_sales):
     print("Removendo as linhas com a data Invalid Date")
     df_sales_filtered = df_sales.loc[df_sales['date'] != 'Invalid Date']
 
-    print("Novo dataframe criado")
+    print("Novo dataf rame criado")
     print(df_sales_filtered)
 
     print("Limpando dados negativos")
@@ -80,21 +79,6 @@ def daily_average_selled_category(df_sales):
     avg_daily_sales = df_sales.groupby(['category', 'date'])['daily_sales'].mean().reset_index()
 
     print(f"A média diaria: {avg_daily_sales}")
-
-
-def product_selled_equal_or_more_50(df_sales):
-    print("**Verificando produto vendido mais de 100 vezes em um dia**")
-    print("Garantindo o formatod o campo de data")
-    df_sales = df_sales.copy()  # Garante que `df_sales` é independente
-    df_sales.loc[:, 'date'] = pd.to_datetime(df_sales['date'])
-
-    print("agrupando por produto e quantidade")
-
-    daily_sales = df_sales.groupby(['product', 'date'])['quantity'].sum().reset_index()
-
-    filtered_products = daily_sales[daily_sales['quantity'] >= 50]
-
-    print(f"Produtos que venderam mais de 100 em quantidade por dia: {filtered_products}")
 
 
 if __name__ == "__main__":
